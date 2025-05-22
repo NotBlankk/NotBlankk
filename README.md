@@ -3,6 +3,10 @@
 <h1 align="center">Hi 👋! My name is Ankush and I'm a Software Engineer</h1>
 
 ###
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AmanChaudhary1609.AmanChaudhary1609&"  />
+</div>
+###
 
 <br clear="both">
 
