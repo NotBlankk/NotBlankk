@@ -1,5 +1,6 @@
-<br clear="both">
 ![Header](./header.png)
+<br clear="both">
+
 <h1 align="center">Hi 👋! My name is Ankush and I'm a Software Engineer</h1>
 
 ###
